@@ -28,7 +28,7 @@ Holding a passion for **learning new technologies and applying systematic proble
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baddif&layout=compact&theme=tokyonight&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=baddif&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baddif&theme=tokyonight&hide_border=true)
 
 ---
 
