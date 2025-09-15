@@ -1,9 +1,15 @@
 # Hi there 👋 I'm Dif 
-
+---
 🚀 **Senior Full-Stack Software Engineer & Architect** with 12+ years of experience in **system design, scalable architecture, and full-cycle development**.  
 I specialize in building robust backend services, creating efficient APIs, and integrating with modern frontends.  
 I have extensive experience in **remote collaboration**, working across time zones with distributed teams.  
 Holding a passion for **learning new technologies and applying systematic problem-solving to real-world challenges**.
+
+---
+
+### 😄😄😄
+- **Tsinghua University, M.S. in Software Engineering**
+- AWS Certified Cloud Practitioner (**912/1000**)
 
 ---
 
