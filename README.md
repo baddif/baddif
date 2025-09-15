@@ -1,5 +1,15 @@
-# Hi there 👋 I'm Dif 
+# Hi 👋 I'm Dif, a Developer and Software Architect.
+- 💼 [LinkedIn](https://www.linkedin.com/in/yifudingsoftwarearchitect)
+- 🌐 [My Blog](https://tech-share.nonpareil.me)  
+- 📧 Email: baddif@gmail.com  
+
 ---
+
+⭐️ *"Systematic thinking, scalable design, and a passion for learning new technologies."*
+
+---
+
+### 📖 Summary
 🚀 **Senior Full-Stack Software Engineer & Architect** with 12+ years of experience in **system design, scalable architecture, and full-cycle development**.  
 I specialize in building robust backend services, creating efficient APIs, and integrating with modern frontends.  
 I have extensive experience in **remote collaboration**, working across time zones with distributed teams.  
@@ -7,7 +17,7 @@ Holding a passion for **learning new technologies and applying systematic proble
 
 ---
 
-### 😄😄😄
+### 👉 Some Achievements
 - **Tsinghua University, M.S. in Software Engineering**
 - AWS Certified Cloud Practitioner (**912/1000**)
 
@@ -40,11 +50,3 @@ Holding a passion for **learning new technologies and applying systematic proble
 ![Visitor Count](https://komarev.com/ghpvc/?username=baddif&color=blue&style=flat-square)  
 
 ---
-
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yifudingsoftwarearchitect)
-- 🌐 [My Blog](https://tech-share.nonpareil.me)  
-- 📧 Email: baddif@gmail.com  
-
----
-⭐️ *"Systematic thinking, scalable design, and a passion for learning new technologies."*
