@@ -1,4 +1,4 @@
-# Hi 👋 I'm Dif, a Developer and Software Architect.
+# Hi 👋 I'm Dif, a *Full-Stack Developer* and *Software Architect*
 - 💼 [LinkedIn](https://www.linkedin.com/in/yifudingsoftwarearchitect)
 - 🌐 [My Blog](https://tech-share.nonpareil.me)  
 - 📧 Email: baddif@gmail.com  
