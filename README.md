@@ -32,7 +32,7 @@ Holding a passion for **learning new technologies and applying systematic proble
 ---
 
 ### 📌 Featured Projects
-- 🔹 [**AI Resume Optimizer (WordPress Plugin / React)**](https://github.com/baddif/ai_resume_optimizer) – AI-powered resume content optimization and generation.
+- 🔹 [**AI Resume Optimizer (WordPress Plugin / React)**](https://github.com/baddif/ai_resume_optimizer) – AI-powered resume content optimization, WordPress Plugin.
   - [Real Website](https://career.nonpareil.me/)
 - 🔹 [**Personal Currency Monitor (Python Tool)**](https://github.com/baddif/PersonalCurrencyMonitor) – A simple desktop tool of currency conversion, for remote / independent developers to check the salary.
 - 🔹 [**Game Assiatant App (Android)**](https://github.com/baddif/MyAppsRelease) – Record and organize walkthroughs, designed for local gamers.  
